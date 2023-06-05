@@ -4,7 +4,7 @@ This repository contains the code for a Flutter/Dart implementation of a mental 
 
 ## Screenshots
 
-<img src="screenshots/screenshot1.jpg" width="200">
+<img src="screenshots/screenshot1.jpg" width="300">
 
 ## Features
 
