@@ -246,42 +246,6 @@ class _HomePageState extends State<HomePage> {
                             numberOfExercise: 20,
                             color: Colors.pink,
                           ),
-                          ExerciseTile(
-                            icon: Icons.favorite,
-                            exerciseName: 'Speaking Skills',
-                            numberOfExercise: 16,
-                            color: Colors.orange,
-                          ),
-                          ExerciseTile(
-                            icon: Icons.person,
-                            exerciseName: 'Reading Skills',
-                            numberOfExercise: 8,
-                            color: Colors.green,
-                          ),
-                          ExerciseTile(
-                            icon: Icons.star,
-                            exerciseName: 'Writing Skills',
-                            numberOfExercise: 20,
-                            color: Colors.pink,
-                          ),
-                          ExerciseTile(
-                            icon: Icons.favorite,
-                            exerciseName: 'Speaking Skills',
-                            numberOfExercise: 16,
-                            color: Colors.orange,
-                          ),
-                          ExerciseTile(
-                            icon: Icons.person,
-                            exerciseName: 'Reading Skills',
-                            numberOfExercise: 8,
-                            color: Colors.green,
-                          ),
-                          ExerciseTile(
-                            icon: Icons.star,
-                            exerciseName: 'Writing Skills',
-                            numberOfExercise: 20,
-                            color: Colors.pink,
-                          ),
                         ],
                       ),
                     )
